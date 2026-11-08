@@ -1,8 +1,8 @@
-# Hi there, I'm [Nicola Garavini]! 👋
+# Hi there, I'm Nicola Garavini!
 
 ![Banner Image](your_banner_image_url_here)
 
-## About Me 🚀
+## About Me
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
@@ -12,13 +12,46 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 - 📫 How to reach me: **[your email address or other contact information]**
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
-## My Skills 🧠
-
+## My Skills
 
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-## Featured Projects 💻
+## Work Projects 
+
+### Tile-X
+
+![Project 1 Screenshot](project_1_screenshot_url)
+
+### 2-axis robotic arm inverse kinematics implementation
+
+![Project 1 Screenshot](project_1_screenshot_url)
+
+### Xtrema PWD
+
+![Project 1 Screenshot](project_1_screenshot_url)
+
+## Bachelor/Master Projects
+
+### Self-balancing robot
+
+![Project 1 Screenshot](project_1_screenshot_url)
+
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+
+### Computer vision
+
+![Project 1 Screenshot](project_1_screenshot_url)
+
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+
+### Hexacopter design and 3d-print
+
+![Project 1 Screenshot](project_1_screenshot_url)
+
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+
+## High School Projects
 
 ### [Project 1 Title](project_1_link)
 
